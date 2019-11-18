@@ -35,7 +35,7 @@ export default [
       "http://artec3d-production.s3-eu-west-1.amazonaws.com/btx_news/1442698381_world-war-z-uk-poster.jpg"
   },
   {
-    id: 5,
+    id: 6,
     title: "Mark Wahlberg",
     price: 38.0,
     image:
